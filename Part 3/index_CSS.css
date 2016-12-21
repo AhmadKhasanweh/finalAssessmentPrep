@@ -1,0 +1,11 @@
+body {
+	background-color: maroon;
+}
+h1 {
+	font-family: "Arial", Georgia, Serif;
+}
+
+.textinput {
+	width: 250pt;
+	height: 100px;
+}
